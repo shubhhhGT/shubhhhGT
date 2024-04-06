@@ -1,71 +1,113 @@
-<h2 align="left">Hi 👋! My name is Shubham Goswami and I'm a MERN stack developer, from Mumbai.</h2>
+<h3 align="center">🔍 Explore My Digital Repository 🔍</h3>
 
-###
+<!-- Banner -->
+<p align="center">  
+  <br>
+  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="./assets/banner.png">
+<p/>
+
+<!-- Typing SVG -->
+<p align ="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=500&color=fdb74e&center=true&vCenter=true&lines=Full+Stack+Developer;DevOps+Enthusiast;Learner" alt="Typing SVG"/>
+  </a>
+</p>
+
+<h3 align="center"> 
+  I'm a JavaScript Full Stack Web Developer based in India 🇮🇳.
+</h3>
+
+<p align="center">
+  I am currently crafting my GitHub Portfolio with Foundational Projects and Preparing to Elevate to New Heights.
+</p>
+<br/>
+
+<!-- Social Media Links -->
+
+## Let's connect! 🤝
+
+<br/>
+<div align= center>
+
+[![Twitter Badge](https://img.shields.io/badge/-@ShubhamGoswami-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KadlagAkash)](https://twitter.com/shubhamgt001) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ShubhamGoswami-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-goswami-504838272/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-shubhamgt001-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shubhamgt001@gmail.com)
+
+</div>
+</br>
+
+<!-- More About Me -->
+
+## 🙋‍♂️ About Me
+
+- #### 🔭 I’m currently working on 100xDevs Cohort
+
+- #### 🌱 I’m currently learning <a href="https://nextjs.org/" target="_blank">Next.Js</a>
+
+- #### 🎯 2024 Goals: On a Journey to Master TypeScript 🌟.
+
+- #### 📝 Check out my Articles on: <a href="https://hashnode.com/@shubhamgt001" target="_blank">shubhamgt001.hashnode.dev</a>
+
+- #### 🙋🏻 Happy to connect Aamzing folks and build Awesome network.
+
+<br/><br/>
+
+<!-- Techonologies that I'm working with -->
+
+## ⚡️ Tech-Stack
+
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px align="top"/> &nbsp;&nbsp;Languages:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhhhGT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhhhGT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
+</p>
 </div>
 
-  <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shubhhhGT&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+### 🧩 &nbsp;&nbsp;Libraries & Frameworks :
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,express&theme=dark" />
+</p>
 
-###
+### 🗄️ &nbsp;Databases:
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongo,mysql,postgres&theme=dark" />
+</p>
 
-###
+### 🛠️ &nbsp;Tools:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" style="fill: #FFF;" />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,bash&theme=dark" />
+</p>
 
-###
+<br/><br/>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/shubham-goswami-504838272/">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/driftwood_zoro">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:shubhamgt001@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://twitter.com/shubhamgt001">
-        <img src="https://img.shields.io/static/v1?message=Twitter&logo=Twitter&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+<!-- GitHub Activity Tracker -->
+
+## 👨🏻‍💻 Activity Moniter
+
+<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=shubhhhGT&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0D1117" alt="My GitHub Streak"/>
+</p>
+
+<br/>
+
+<!-- GitHub Stats -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" align="top"> GitHub Statistics
+
+<br/>
+<p align="center">
+  <img alt="Shubham Goswami's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhhhGT&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"/>
+<p/>
+
+<p align="center">
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+<br/>
 
 ###
 
